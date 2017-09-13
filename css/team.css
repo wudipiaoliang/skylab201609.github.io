@@ -7,8 +7,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 body{
 	padding:0;
 	margin:0;
-	font-family: 'Maven Pro', sans-serif;
+	font-family: 'Maven Pro', sans-serif,'微软雅黑';
 }
+a:link {color: #337ab7}
+a:visited {color: #337ab7}
+a:hover {color: #337ab7}
+a:active {color: #337ab7}
+
 body a{
     transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -178,7 +183,6 @@ ul.wmuSliderPagination {
 	font-weight:400;
 }
 .bannertop_box p{
-	margin:1.5em 0;
 	color:#EDE8E0;
 	font-size:23px;
 	font-weight:400;
@@ -191,7 +195,9 @@ span.bold {
 	font-weight: 900;
 	font-size: 1.3em;
 }
-
+.img{
+	height: 800px;
+}
 .banner_right {
 	float: right;
 	width: 45%;

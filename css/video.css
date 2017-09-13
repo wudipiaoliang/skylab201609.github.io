@@ -1,0 +1,36 @@
+a:link {color: #337ab7}
+a:visited {color: #337ab7}
+a:hover {color:#337ab7}
+a:active {color: #337ab7}
+#header{
+    width: 100%;
+    height: 8px;
+    background-color: #30394D;
+}
+#zhuti{
+    width: 100%;
+    background-color: #30394D;
+}
+video{
+    margin-left: 10%;
+    background-color: White;
+}
+body {
+  padding-top: 50px;
+  background-color: #30394D;
+}
+.copyright{
+    text-align: center;
+    background-color:#101010;
+    padding: 1em 0;
+}
+.copyright p{
+    color: White;
+    margin: 0;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #101010;
+}
